@@ -48,7 +48,7 @@ make build
 
 ## Status
 
-🚧 **Under active development** — see [DESIGN.md](docs/DESIGN.md) for the architecture and roadmap.
+**Under active development** — see [DESIGN.md](docs/DESIGN.md) for the architecture and roadmap.
 
 ## Contributing
 
